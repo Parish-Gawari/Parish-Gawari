@@ -1,4 +1,4 @@
-### <div align="center">I'm Parish Gawari, Full Stack web developer 👨‍💻 working at HeyCoach since Dec 2023 🚀</div>  
+### <div align="center">I'm Parish Gawari, Software Engineer 👨‍💻 at QuestionPro 🚀</div>  
   
 
 - 🔭 I’m currently working on React , Node and SQL  
